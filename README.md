@@ -137,13 +137,8 @@ Input Validation: Controller-level validation prevents malformed data
 ✅ Production Ready
 
 This backend is designed to be:
-
 Secure
-
 Scalable
-
 Maintainable
-
 Industry-aligned
-
 Perfect for real-world e-commerce platforms and portfolio-grade backend projects 🚀
